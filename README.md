@@ -4,9 +4,9 @@
 🌱 I am presently acquiring knowledge in the field of <b>Ethical Hacking</b>. <br>
 💬 In addition to my proficiency in <b>Java</b>, <b>Python</b>, <b>MySQL</b>, <b>C</b> and <b>C++</b>. I also possess a good fundamental understanding about <b>Static Front End Development</b> (<b>HTML</b> and <b>CSS</b>). <br>
 
-[![AdityaBhatt3010's GitHub | Stats](https://stats.quine.sh/AdityaBhatt3010/github?theme=dark)](https://quine.sh)
+[![AdityaBhatt3010's GitHub | Stats](https://stats.quine.sh/MajesticFires3010/github?theme=dark)](https://quine.sh)
 
-[![AdityaBhatt3010's GitHub | Languages Over Time](https://stats.quine.sh/AdityaBhatt3010/languages-over-time?theme=dark)](https://quine.sh)
+[![AdityaBhatt3010's GitHub | Languages Over Time](https://stats.quine.sh/MajesticFires3010/languages-over-time?theme=dark)](https://quine.sh)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/)
