@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 ### **Aditya Bhatt – Cybersecurity & Cloud Security Enthusiast**  
 
