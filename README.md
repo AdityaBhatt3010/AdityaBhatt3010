@@ -37,12 +37,6 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 
 ---
 
-[![AdityaBhatt3010's GitHub | Stats](https://stats.quira.sh/AdityaBhatt3010/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaBhatt3010)
-
-[![AdityaBhatt3010's GitHub | Topics Over Time](https://stats.quira.sh/AdityaBhatt3010/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaBhatt3010)
-
-[![AdityaBhatt3010's GitHub | Languages Over Time](https://stats.quira.sh/AdityaBhatt3010/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaBhatt3010)
-
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@info.adityabhatt3010) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) </br>
