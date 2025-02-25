@@ -56,3 +56,9 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 🚀 **Let’s connect and collaborate on cybersecurity, cloud security, and security automation!**  
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
+</picture>
