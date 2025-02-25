@@ -73,13 +73,9 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhatt3010&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=pie&hide=html,css,javascript&langs_count=10&size_weight=0.5&count_weight=0.5)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-🚀 **Let’s connect and collaborate on cybersecurity, cloud security, and security automation!**  
-
 ---
 
+### Who let the Snake out 🐍🗿
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
@@ -89,4 +85,11 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaBhatt3010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AdityaBhatt3010&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+🚀 **Let’s connect and collaborate on cybersecurity, cloud security, and security automation!**  
+
+---
