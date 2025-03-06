@@ -1,6 +1,6 @@
-# 💫 About Me
+![Image](https://github.com/user-attachments/assets/bc441288-69f2-420c-9329-e70c7091624e)
 
-## **Aditya Bhatt – Cybersecurity & Cloud Security Enthusiast**  
+## 💫 About Me
 
 I am a **BTech Computer Science and Engineering (CSE) student** at **Amity University, Uttar Pradesh (2022-2026)** with a **CGPA of 8.36**. Passionate about **cybersecurity, cloud security, and automation**, I specialize in **Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, and Cryptography**.  
 
