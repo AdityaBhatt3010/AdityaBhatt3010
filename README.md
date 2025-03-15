@@ -61,6 +61,7 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 ---
 
 ## 🌐 Socials:
+[![Linktree](ttps://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@info.adityabhatt3010) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/AdityaBhatt3010) </br>
