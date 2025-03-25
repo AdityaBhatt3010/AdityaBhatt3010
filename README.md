@@ -61,13 +61,14 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 ---
 
 ## 🌐 Socials:
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@info.adityabhatt3010) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/AdityaBhatt3010) </br>
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdityaBhatt3010) </br>
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@info.adityabhatt3010) </br>
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/aditya-bhatt3010) </br>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/info.adityabhatt) </br>
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdityaBhatt3010) </br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/) </br>
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true) <br/>
