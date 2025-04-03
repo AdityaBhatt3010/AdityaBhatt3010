@@ -7,16 +7,19 @@ I am a **BTech Computer Science and Engineering (CSE) student** at **Amity Unive
 ## **Certifications & Training**  
 - **Certified Ethical Hacker (CEH)** – EC-Council  
 - **CompTIA Security+**  
-- **PCP in Cybersecurity - Red Team** – IIT Kanpur  
+- **PCP in Cybersecurity - Red Team** – IIT Kanpur (Capstone Projects)  
 - **AWS Certified Cloud Practitioner (CCP)**  
-- **Qualys Web Application Scanning**  
+- **Qualys Web Application Scanning Certification**  
 - **NPTEL - Systems and Usable Security (Elite Silver)**  
-- **SimpliLearn** – ISC2 CCSP, ISACA CISM, CompTIA Linux+  
-- **Cisco NetAcad** –  CCNA v7: Introduction to Networks
-- **EC-Council CodeRed:** Ethical Hacking and Bug Bounty, IoT Security, Web Forensics, Cloud Security  
-- **Microsoft Learn:** SC-200 Microsoft Sentinel, Linux Command Line, GitHub  
-- **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals  
+- **Postman API Fundamentals Student Expert**  
 - **Forage Cybersecurity Job Simulations:** Mastercard, Telestra, Datacom, ANZ, AIG, TCS, PwC, Commonwealth Bank  
+- **Amazon Web Services Educate:** Getting Started with Security (AWS IAM)  
+- **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals  
+- **Microsoft Learn:** SC-200: Configure your Microsoft Sentinel Environment, Get Started with the Linux Command Line and the Shell, Introduction to GitHub  
+- **SimpliLearn Training:** ISACA CISM (Certified Information Security Manager), ISC2 CCSP (Certified Cloud Security Professional), CompTIA Network+, Introduction to Cyber Security, Linux Training  
+- **Cisco NetAcad:** CCNA v7: Introduction to Networks, Networking Basics, Introduction to Packet Tracer  
+- **Udemy:** Complete Ethical Hacking Bootcamp, Complete Ethical Hacking Course with ParrotOS 2022  
+- **EC-Council CodeRed:** Top 100 Interesting Bugs | Ethical Hacking and Bug Bounty, Getting Started with IoT Security, Introduction to Web Forensics, Cybersecurity: Cloud Security  
 
 ## **Technical Skills**  
 - **Cybersecurity & VAPT:** Ethical Hacking, Threat Intelligence, Incident Response  
