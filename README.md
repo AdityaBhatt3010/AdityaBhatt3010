@@ -76,7 +76,7 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true) <br/>
+![](https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhatt3010&theme=radical&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=pie&hide=html,css,javascript&langs_count=12&size_weight=0.5&count_weight=0.5) <br/>
 
