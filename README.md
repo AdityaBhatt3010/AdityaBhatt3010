@@ -64,8 +64,10 @@ I actively contribute to **cybersecurity research, open-source security tools, a
 ---
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://adityabhatt3010.github.io) <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/AdityaBhatt3010) </br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.adityabhatt3010@gmail.com) <br/>
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@info.adityabhatt3010) </br>
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/aditya-bhatt3010) </br>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/info.adityabhatt) </br>
