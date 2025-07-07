@@ -1,34 +1,73 @@
 # 💫 About Me
 
-## **Aditya Bhatt – Cybersecurity & Cloud Security Enthusiast**  
+## **Aditya Bhatt – Information Security Analyst | VAPT Specialist | Cloud Security Practitioner**
 
-I am a **BTech Computer Science and Engineering (CSE) student** at **Amity University, Uttar Pradesh (2022-2026)** with a **CGPA of 8.36**. Passionate about **cybersecurity, cloud security, and automation**, I specialize in **Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, and Cryptography**.  
+I’m a **third-year BTech Computer Science and Engineering student** at **Amity University, Uttar Pradesh (2022–2026)** with a **current CGPA of 8.48**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation**—with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
 
-## **Certifications & Training**  
-- **Certified Ethical Hacker (CEH)** – EC-Council  
-- **CompTIA Security+**  
-- **PCP in Cybersecurity - Red Team** – IIT Kanpur (Capstone Projects)  
-- **AWS Certified Cloud Practitioner (CCP)**  
-- **Qualys Web Application Scanning Certification**  
-- **NPTEL - Systems and Usable Security (Elite Silver)**  
-- **Postman API Fundamentals Student Expert**  
-- **Forage Cybersecurity Job Simulations:** Mastercard, Telestra, Datacom, ANZ, AIG, TCS, PwC, Commonwealth Bank  
-- **Amazon Web Services Educate:** Getting Started with Security (AWS IAM)  
-- **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals  
-- **Microsoft Learn:** SC-200: Configure your Microsoft Sentinel Environment, Get Started with the Linux Command Line and the Shell, Introduction to GitHub  
-- **SimpliLearn Training:** ISACA CISM (Certified Information Security Manager), ISC2 CCSP (Certified Cloud Security Professional), CompTIA Network+, Introduction to Cyber Security, Linux Training  
-- **Cisco NetAcad:** CCNA v7: Introduction to Networks, Networking Basics, Introduction to Packet Tracer  
-- **Udemy:** Complete Ethical Hacking Bootcamp, Complete Ethical Hacking Course with ParrotOS 2022  
-- **EC-Council CodeRed:** Top 100 Interesting Bugs | Ethical Hacking and Bug Bounty, Getting Started with IoT Security, Introduction to Web Forensics, Cybersecurity: Cloud Security  
+---
 
-## **Technical Skills**  
-- **Cybersecurity & VAPT:** Ethical Hacking, Threat Intelligence, Incident Response  
-- **Cloud Security:** AWS, IAM, Terraform, Microsoft Sentinel  
-- **Programming:** Java, C, C++, Python  
-- **Database Management:** MySQL, Oracle SQL  
-- **Security Automation & Scripting:** Bash, PowerShell, Python  
+## 📜 Certifications & Trainings
 
-## **Tech Stack**  
+* **Certified Ethical Hacker (CEH)** – EC-Council
+* **CompTIA Security+**
+* **Professional Certificate Program in Cybersecurity – Red Team** – IIT Kanpur *(Capstone Projects)*
+* **AWS Certified Cloud Practitioner (CCP)**
+* **Qualys Web Application Scanning Certification**
+* **Cisco NetAcad:** CCNA v7, Networking Basics, Ethical Hacker, Packet Tracer, Endpoint Security
+* **NPTEL:** Systems and Usable Security *(Elite Silver)*
+* **Postman API Fundamentals Student Expert**
+* **Microsoft Learn:** SC-200, Linux Shell, GitHub
+* **SimpliLearn Training:** CISM, CCSP, CompTIA Network+, Cybersecurity Essentials, Linux Training
+* **EC-Council CodeRed:** Top 100 Interesting Bugs, IoT Security, Cloud Security, Web Forensics
+* **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
+* **AWS Educate:** Getting Started with Security *(AWS IAM)*
+* **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals
+* **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
+
+---
+
+## 🛠️ Technical Skills
+
+* **Cybersecurity & VAPT:** Ethical Hacking, App Scanning, Incident Response, Threat Intelligence
+* **Cloud Security:** AWS IAM, Microsoft Sentinel, Terraform
+* **Programming:** Java, Python, C, C++
+* **Scripting:** Bash, PowerShell
+* **Database:** MySQL, Oracle SQL
+* **Tools & Platforms:** GitHub, Docker, Nessus, Acunetix
+* **Networking & Analysis:** Network Security, Packet Tracing
+
+---
+
+## 👨‍💻 Work Experience
+
+* **Summer Intern | Ernst & Young (EY)** *(May 2025 – Present)*
+  Designed a Dockerized compliance automation system to audit frameworks like ISO 27001, HIPAA, and GDPR using multi-stage pipeline design for parsing and analyzing internal documentation.
+
+* **Penetration Tester | VulnOS** *(July 2025 – Present)*
+  Performed real-time exploitation and reporting on live pentesting environments focusing on vulnerability discovery and exploit simulation.
+
+* **Security Analyst Intern | Conversia-AI** *(Jan 2025 – Mar 2025)*
+  Led VAPT on internal and client systems, conducted manual assessments, and strengthened AWS IAM security policies for the AI-driven startup.
+
+---
+
+## 🏆 Achievements
+
+* **📘 Publications**
+
+  * Book Chapter: *“Robotics and Cybersecurity Fundamentals”* in CRC Press, Taylor & Francis *(Scopus-Indexed)*
+  * Chapter Submitted: *“Hacking Generative AI: Data Privacy via Image Poisoning”* for Blockchain & IoT Security Book
+  * Articles featured in top cybersecurity & tech publications: *InfoSec WriteUps, OSINT Team, Stackademic, Python/JavaScript/AI in Plain English, Cubed, Venture*
+
+* **🏆 Hacknovate 5.0 Finalist**
+  Secured **Top 10 (Offline Category)** at *Hacknovate 5.0* (May 2024) with **Team API Alchemist** at ABES IT, Ghaziabad.
+
+* **🌐 TryHackMe Global Top 2%**
+  Ranked among top global learners for consistently solving red-team and exploit simulation labs.
+
+---
+
+## **👨‍💻 Tech Stack**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,11 +94,6 @@ I am a **BTech Computer Science and Engineering (CSE) student** at **Amity Unive
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-## **Work Experience**  
-Currently working as a **Security Analyst Intern at Conversia-AI**, where I focus on **threat detection, penetration testing, incident response, and managing IAM policies**. I work closely with IT teams to strengthen security posture and mitigate cyber risks.  
-
-I actively contribute to **cybersecurity research, open-source security tools, and automation scripts**, sharing insights through **GitHub projects and Medium articles**.  
 
 ---
 
