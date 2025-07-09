@@ -110,7 +110,7 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 
 # 📊 GitHub Stats:
-<div align="center">
+<div align="left">
 
   <!-- 💠 Profile Details Card -->
   <img 
@@ -137,8 +137,6 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
   width="35%" 
   style="display: inline-block;"
 />
-
-
 
 </div>
 ---
