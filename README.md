@@ -110,10 +110,38 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhatt3010&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,javascript&langs_count=14&size_weight=0.5&count_weight=0.5) <br/>
+# 📊 GitHub Stats:
+<div align="center">
 
+  <!-- 💠 Profile Details Card -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaBhatt3010&theme=radical&hide_border=false" 
+    width="96%" 
+  />
+
+  <!-- 📈 Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaBhatt3010&bg_color=0D1117&color=F77070&line=F7A325&point=FFFFFF&area=true&hide_border=false&hide_border=false" 
+    width="96%" 
+  />
+
+  <!-- 🧾 Extra GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&show_icons=true&theme=radical&hide_border=false" 
+    width="55%" 
+    style="display: inline-block; height: 0px;"
+  />
+
+  <!-- 🧬 Top Languages (Pie) [Responsive] -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&layout=pie&hide=html,css,javascript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
+  width="35%" 
+  style="display: inline-block;"
+/>
+
+
+
+</div>
 ---
 
 ### Who let the Snake out 🐍🗿
