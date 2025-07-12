@@ -109,6 +109,8 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/) </br>
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/AdityaBhatt3010) </br>
 
+---
+
 # 📊 GitHub Stats:
 <div align="left">
 
@@ -139,6 +141,7 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 />
 
 </div>
+
 ---
 
 ### Who let the Snake out 🐍🗿
