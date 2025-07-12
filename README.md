@@ -156,7 +156,9 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdityaBhatt3010&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
 
-### ✍️ Random Dev Quote
+---
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🚀 **Let’s connect and collaborate on cybersecurity, cloud security, and security automation!**  
