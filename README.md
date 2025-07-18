@@ -135,7 +135,7 @@ I’m a **third-year BTech Computer Science and Engineering student** at **Amity
 
   <!-- 🧬 Top Languages (Pie) [Responsive] -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&layout=pie&hide=html,css,javascript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&layout=pie&hide=html,css,javascript,typescript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
   width="35%" 
   style="display: inline-block;"
 />
