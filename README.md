@@ -1,8 +1,9 @@
-# 💫 About Me
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=%F0%9F%94%91%20Aditya%20Bhatt%20%E2%80%94%20Securing%20Systems.%20Breaking%20Boundaries.%20%F0%9F%94%A5&fontColor=FF003C&fontSize=28&color=0F0F0F,1C1C1C,2C3E50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
+</h1>
 
-## **Aditya Bhatt – Information Security Analyst | VAPT Specialist | Cloud Security Practitioner**
-
-I’m a **third-year BTech Computer Science and Engineering student** at **Amity University, Uttar Pradesh (2022–2026)** with a **current CGPA of 8.48**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation**—with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
+**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.48**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
 
 ---
 
