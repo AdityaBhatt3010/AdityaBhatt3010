@@ -129,7 +129,7 @@
 
   <!-- 🧾 Extra GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&show_icons=true&theme=radical&hide_border=false&cache_bust=20250720" 
+    src="https://github-readme-stats.vercel.app/api?username=AdityaBhatt3010&show_icons=true&theme=radical&hide_border=false" 
     width="55%" 
     style="display: inline-block; height: 0px;"
   />
