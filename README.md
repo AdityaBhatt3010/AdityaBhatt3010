@@ -103,7 +103,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhatt3010/) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/AdityaBhatt3010) </br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:info.adityabhatt3010@gmail.com) <br/>
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/adityabhatt3010) </br>
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@adityabhatt3010) </br>
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/aditya-bhatt3010) </br>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/info.adityabhatt) </br>
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdityaBhatt3010) </br>
