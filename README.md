@@ -41,10 +41,10 @@
 
 ## 👨‍💻 Work Experience
 
-* **Summer Intern | Ernst & Young (EY)** *(May 2025 – Present)*
+* **Summer Intern | Ernst & Young (EY)** *(May 2025 – July 2025)*
   Designed a Dockerized compliance automation system to audit frameworks like ISO 27001, HIPAA, and GDPR using multi-stage pipeline design for parsing and analyzing internal documentation.
 
-* **Penetration Tester | VulnOS** *(July 2025 – Spetember 2025)*
+* **Penetration Tester | VulnOS** *(July 2025 – September 2025)*
   Performed real-time exploitation and reporting on live pentesting environments focusing on vulnerability discovery and exploit simulation.
 
 * **Security Analyst Intern | Conversia-AI** *(Jan 2025 – Mar 2025)*
