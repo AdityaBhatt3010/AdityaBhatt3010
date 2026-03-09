@@ -54,17 +54,22 @@
 
 ## 🏆 Achievements
 
-* **📘 Publications**
+* **📘 Publications & Research**
 
-  * Book Chapter: *“Robotics and Cybersecurity Fundamentals”* in CRC Press, Taylor & Francis *(Scopus-Indexed)*
-  * Chapter Submitted: *“Hacking Generative AI: Data Privacy via Image Poisoning”* for Blockchain & IoT Security Book
-  * Articles featured in top cybersecurity & tech publications: *InfoSec WriteUps, OSINT Team, Stackademic, Python/JavaScript/AI in Plain English, Cubed, Venture*
+  * Research Paper: *“AI-Enhanced Differential Privacy”* — **IEEE Xplore**, presented at **ICIPTM-2026**
+  * Research Paper: *“Refining ISO/IEC 27001 for AI Security”* — **Springer (LNEE Series)**, presented at **ReDCySec-2025**
+  * Book Chapter: *“Robotics and Cybersecurity Fundamentals”* — **CRC Press, Taylor & Francis** *(Scopus-Indexed)* — Dec 2025
+  * Book Chapter Accepted: *“Hacking Generative Artificial Intelligence”* — **Bentham Publications** — Oct 2025
+  * Book Chapter Accepted: *“IoT Security Challenges and Quantum Resistant Approaches”* — **Bentham Publications** — Jan 2026
 
-* **🏆 Hacknovate 5.0 Finalist**
-  Secured **Top 10 (Offline Category)** at *Hacknovate 5.0* (May 2024) with **Team API Alchemist** at ABES IT, Ghaziabad.
+* **✍️ Cybersecurity Writer (Medium)**  
+  Published cybersecurity research and technical writeups across **12+ Medium publications**, including **InfoSec WriteUps**, covering **VAPT, bug hunting, cryptography, and practical security research**.
 
-* **🌐 TryHackMe Global Top 2%**
-  Ranked among top global learners for consistently solving red-team and exploit simulation labs.
+* **🏆 Hacknovate 5.0 Finalist**  
+  Secured **Top 10 (Offline Category)** at *Hacknovate 5.0* (May 2024) with **Team API Alchemist** at **ABES IT, Ghaziabad**.
+
+* **🌐 TryHackMe Global Top 2%**  
+  Ranked among the **top global learners on TryHackMe** for consistently solving **red-team, exploitation, and attack simulation labs**.
 
 ---
 
