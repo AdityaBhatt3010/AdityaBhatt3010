@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
 </h1>
 
-**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.48**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
+**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.57**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
 
 ---
 
