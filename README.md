@@ -141,7 +141,7 @@
 
   <!-- 🧬 Top Languages (Pie) -->
 <img 
-  src="https://my-github-readme-stats-api.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&layout=pie&exclude_repo=ShadowHash-All-in-One-Crypto-Solution,Portfolio,AdityaBhatt3010.github.io&hide=css,typescript&langs_count=16&size_weight=0.5&count_weight=0.5&hide_border=false" 
+  src="https://my-github-readme-stats-api.vercel.app/api/top-langs/?username=AdityaBhatt3010&theme=radical&layout=pie&exclude_repo=ShadowHash-All-in-One-Crypto-Solution,Portfolio,AdityaBhatt3010.github.io&hide=css,typescript&langs_count=18&size_weight=0.5&count_weight=0.5&hide_border=false" 
   width="35%" 
   style="display: inline-block;" 
 />
