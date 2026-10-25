@@ -58,9 +58,9 @@
 ## 🛡️ Responsible Disclosure
 
 - **Published 3 CVEs** through responsible vulnerability research and disclosure:
-  - **[CVE-2026-23842](https://nvd.nist.gov/vuln/detail/CVE-2026-23842)** — **7.5 High:** Identified a denial-of-service vulnerability in ChatterBot caused by database connection pool exhaustion during concurrent `get_response()` calls. [Source](https://github.com/advisories/GHSA-v4w8-49pv-mf72)
-  - **[CVE-2026-27579](https://nvd.nist.gov/vuln/detail/CVE-2026-27579)** — **7.4 High:** Identified a CORS misconfiguration in CollabPlatform that permits credentialed cross-origin requests from arbitrary origins, potentially exposing sensitive user account information. [Source](https://github.com/karnop/realtime-collaboration-platform/security/advisories/GHSA-qh5m-p8jh-hx88)
-  - **[CVE-2026-44341](https://nvd.nist.gov/vuln/detail/CVE-2026-44341)** — **5.3 Medium:** Identified an IDOR vulnerability in GoJobs that allows unauthenticated access to job details through manipulation of object identifiers due to missing authentication and authorization checks. [Source](https://github.com/karnop/gojobs/security/advisories/GHSA-x2j8-h9xc-wpgf)
+  - **[CVE-2026-23842](https://nvd.nist.gov/vuln/detail/CVE-2026-23842)** — **7.5 High:** Identified a denial-of-service vulnerability in ChatterBot caused by database connection pool exhaustion during concurrent `get_response()` calls. [CVE Link](https://github.com/advisories/GHSA-v4w8-49pv-mf72)
+  - **[CVE-2026-27579](https://nvd.nist.gov/vuln/detail/CVE-2026-27579)** — **7.4 High:** Identified a CORS misconfiguration in CollabPlatform that permits credentialed cross-origin requests from arbitrary origins, potentially exposing sensitive user account information. [CVE Link](https://github.com/karnop/realtime-collaboration-platform/security/advisories/GHSA-qh5m-p8jh-hx88)
+  - **[CVE-2026-44341](https://nvd.nist.gov/vuln/detail/CVE-2026-44341)** — **5.3 Medium:** Identified an IDOR vulnerability in GoJobs that allows unauthenticated access to job details through manipulation of object identifiers due to missing authentication and authorization checks. [CVE Link](https://github.com/karnop/gojobs/security/advisories/GHSA-x2j8-h9xc-wpgf)
 - **27 GitHub Security Advisories (GHSAs):** Identified and reported 27 vulnerabilities across multiple repositories, including 3 Critical, 8 High and 16 Moderate severity findings.
 - **Coordinated Vulnerability Disclosure:** Reported additional high-impact vulnerabilities through responsible disclosure programs and bug bounty platforms.
 
