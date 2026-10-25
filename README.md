@@ -41,14 +41,28 @@
 
 ## 👨‍💻 Work Experience
 
-* **Summer Intern | Ernst & Young (EY)** *(May 2025 – July 2025)*
-  Designed a Dockerized compliance automation system to audit frameworks like ISO 27001, HIPAA, and GDPR using multi-stage pipeline design for parsing and analyzing internal documentation.
+* **Cloud Security Engineer - I | Insight** *(July 2026 – Present)*  
+  Supporting enterprise security operations for an international client across IAM, anti-malware, email security, secure web workspace technologies and Zscaler. Investigating security tickets, troubleshooting access and connectivity issues, managing workflows through ServiceNow and supporting security controls aligned with Zero Trust principles.
 
-* **Penetration Tester | VulnOS** *(July 2025 – September 2025)*
-  Performed real-time exploitation and reporting on live pentesting environments focusing on vulnerability discovery and exploit simulation.
+* **Summer Intern | Ernst & Young (EY)** *(May 2025 – July 2025)*  
+  Designed GRC-Forge, a Dockerized compliance automation system for frameworks such as ISO 27001, SOC 2, HIPAA and GDPR. Developed a modular multi-stage pipeline to extract and analyze policy documentation, evaluate compliance alignment and generate actionable audit insights.
 
-* **Security Analyst Intern | Conversia-AI** *(Jan 2025 – Mar 2025)*
-  Led VAPT on internal and client systems, conducted manual assessments, and strengthened AWS IAM security policies for the AI-driven startup.
+* **Penetration Tester | VulnOS – WebFreakz Digitech** *(July 2025 – September 2025)*  
+  Conducted penetration testing across simulated real-world environments, identifying and exploiting vulnerabilities in web applications and infrastructure. Performed VAPT, analyzed misconfigurations and CVEs, documented findings and recommended remediation measures to strengthen platform security.
+
+* **Security Analyst Intern | Conversia-AI** *(January 2025 – April 2025)*  
+  Conducted VAPT across internal and client systems, performed manual security assessments, implemented IAM controls and strengthened AWS IAM security policies. Collaborated with DevOps teams to investigate incidents, mitigate vulnerabilities and improve overall security posture.
+
+---
+
+## 🛡️ Responsible Disclosure
+
+- **Published 3 CVEs** through responsible vulnerability research and disclosure:
+  - **[CVE-2026-23842](https://nvd.nist.gov/vuln/detail/CVE-2026-23842)** — **7.5 High:** Identified a denial-of-service vulnerability in ChatterBot caused by database connection pool exhaustion during concurrent `get_response()` calls. [Source](https://github.com/advisories/GHSA-v4w8-49pv-mf72)
+  - **[CVE-2026-27579](https://nvd.nist.gov/vuln/detail/CVE-2026-27579)** — **7.4 High:** Identified a CORS misconfiguration in CollabPlatform that permits credentialed cross-origin requests from arbitrary origins, potentially exposing sensitive user account information. [Source](https://github.com/karnop/realtime-collaboration-platform/security/advisories/GHSA-qh5m-p8jh-hx88)
+  - **[CVE-2026-44341](https://nvd.nist.gov/vuln/detail/CVE-2026-44341)** — **5.3 Medium:** Identified an IDOR vulnerability in GoJobs that allows unauthenticated access to job details through manipulation of object identifiers due to missing authentication and authorization checks. [Source](https://github.com/karnop/gojobs/security/advisories/GHSA-x2j8-h9xc-wpgf)
+- **27 GitHub Security Advisories (GHSAs):** Identified and reported 27 vulnerabilities across multiple repositories, including 3 Critical, 8 High and 16 Moderate severity findings.
+- **Coordinated Vulnerability Disclosure:** Reported additional high-impact vulnerabilities through responsible disclosure programs and bug bounty platforms.
 
 ---
 
