@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
 </h1>
 
-**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.57**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
+**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.57**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** - with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
 
 ---
 
@@ -58,9 +58,9 @@
 ## 🛡️ Responsible Disclosure
 
 - **Published 3 CVEs** through responsible vulnerability research and disclosure:
-  - **[CVE-2026-23842](https://nvd.nist.gov/vuln/detail/CVE-2026-23842)** — **7.5 High:** Identified a denial-of-service vulnerability in ChatterBot caused by database connection pool exhaustion during concurrent `get_response()` calls. [CVE Link](https://github.com/advisories/GHSA-v4w8-49pv-mf72)
-  - **[CVE-2026-27579](https://nvd.nist.gov/vuln/detail/CVE-2026-27579)** — **7.4 High:** Identified a CORS misconfiguration in CollabPlatform that permits credentialed cross-origin requests from arbitrary origins, potentially exposing sensitive user account information. [CVE Link](https://github.com/karnop/realtime-collaboration-platform/security/advisories/GHSA-qh5m-p8jh-hx88)
-  - **[CVE-2026-44341](https://nvd.nist.gov/vuln/detail/CVE-2026-44341)** — **5.3 Medium:** Identified an IDOR vulnerability in GoJobs that allows unauthenticated access to job details through manipulation of object identifiers due to missing authentication and authorization checks. [CVE Link](https://github.com/karnop/gojobs/security/advisories/GHSA-x2j8-h9xc-wpgf)
+  - **[CVE-2026-23842](https://nvd.nist.gov/vuln/detail/CVE-2026-23842)** - **7.5 High:** Identified a denial-of-service vulnerability in ChatterBot caused by database connection pool exhaustion during concurrent `get_response()` calls. [CVE Link](https://github.com/advisories/GHSA-v4w8-49pv-mf72)
+  - **[CVE-2026-27579](https://nvd.nist.gov/vuln/detail/CVE-2026-27579)** - **7.4 High:** Identified a CORS misconfiguration in CollabPlatform that permits credentialed cross-origin requests from arbitrary origins, potentially exposing sensitive user account information. [CVE Link](https://github.com/karnop/realtime-collaboration-platform/security/advisories/GHSA-qh5m-p8jh-hx88)
+  - **[CVE-2026-44341](https://nvd.nist.gov/vuln/detail/CVE-2026-44341)** - **5.3 Medium:** Identified an IDOR vulnerability in GoJobs that allows unauthenticated access to job details through manipulation of object identifiers due to missing authentication and authorization checks. [CVE Link](https://github.com/karnop/gojobs/security/advisories/GHSA-x2j8-h9xc-wpgf)
 - **27 GitHub Security Advisories (GHSAs):** Identified and reported 27 vulnerabilities across multiple repositories, including 3 Critical, 8 High and 16 Moderate severity findings.
 - **Coordinated Vulnerability Disclosure:** Reported additional high-impact vulnerabilities through responsible disclosure programs and bug bounty platforms.
 
@@ -70,11 +70,11 @@
 
 * **📘 Publications & Research**
 
-  * Research Paper: *“AI-Enhanced Differential Privacy”* — **IEEE Xplore**, presented at **ICIPTM-2026**
-  * Research Paper: *“Refining ISO/IEC 27001 for AI Security”* — **Springer (LNEE Series)**, presented at **ReDCySec-2025**
-  * Book Chapter: *“Robotics and Cybersecurity Fundamentals”* — **CRC Press, Taylor & Francis** *(Scopus-Indexed)* — Dec 2025
-  * Book Chapter Accepted: *“Hacking Generative Artificial Intelligence”* — **Bentham Publications** — Oct 2025
-  * Book Chapter Accepted: *“IoT Security Challenges and Quantum Resistant Approaches”* — **Bentham Publications** — Jan 2026
+  * Research Paper: *“AI-Enhanced Differential Privacy”* - **IEEE Xplore**, presented at **ICIPTM-2026**
+  * Research Paper: *“Refining ISO/IEC 27001 for AI Security”* - **Springer (LNEE Series)**, presented at **ReDCySec-2025**
+  * Book Chapter: *“Robotics and Cybersecurity Fundamentals”* - **CRC Press, Taylor & Francis** *(Scopus-Indexed)* - Dec 2025
+  * Book Chapter Accepted: *“Hacking Generative Artificial Intelligence”* - **Bentham Publications** - Oct 2025
+  * Book Chapter Accepted: *“IoT Security Challenges and Quantum Resistant Approaches”* - **Bentham Publications** - Jan 2026
 
 * **✍️ Cybersecurity Writer (Medium)**  
   Published cybersecurity research and technical writeups across **12+ Medium publications**, including **InfoSec WriteUps**, covering **VAPT, bug hunting, cryptography, and practical security research**.
