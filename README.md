@@ -3,26 +3,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
 </h1>
 
-**Final year BTech Computer Science and Engineering student** with a **current CGPA of 8.57**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** - with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
+**Computer Science and Engineering graduate** with a **CGPA of 8.64**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking** and **Security Automation**, with hands-on experience in **red teaming, compliance auditing, cloud security and infrastructure hardening**.
 
 ---
 
-## 📜 Certifications & Trainings
+## 📜 Certifications
 
 * **Certified Ethical Hacker (CEH)** – EC-Council
 * **CompTIA Security+**
 * **Professional Certificate Program in Cybersecurity – Red Team** – IIT Kanpur *(Capstone Projects)*
 * **AWS Certified Cloud Practitioner (CCP)**
 * **Qualys Web Application Scanning Certification**
-* **Cisco NetAcad:** CCNA v7, Networking Basics, Ethical Hacker, Packet Tracer, Endpoint Security
+* **Cisco NetAcad:** Networking Basics, Ethical Hacker, Packet Tracer, Endpoint Security
 * **NPTEL:** Systems and Usable Security *(Elite Silver)*
 * **Postman API Fundamentals Student Expert**
+* **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals
+
+---
+
+## 📜 Trainings
+
+* **Cisco NetAcad:** CCNA v7
 * **Microsoft Learn:** SC-200, Linux Shell, GitHub
 * **SimpliLearn Training:** CISM, CCSP, CompTIA Network+, Cybersecurity Essentials, Linux Training
 * **EC-Council CodeRed:** Top 100 Interesting Bugs, IoT Security, Cloud Security, Web Forensics
 * **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
 * **AWS Educate:** Getting Started with Security *(AWS IAM)*
-* **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals
 * **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
 
 ---
@@ -30,7 +36,7 @@
 ## 🛠️ Technical Skills
 
 * **Cybersecurity & VAPT:** Ethical Hacking, App Scanning, Incident Response, Threat Intelligence
-* **Cloud Security:** AWS IAM, Microsoft Sentinel, Terraform
+* **Cloud Security:** AWS, Azure, Terraform basics
 * **Programming:** Java, Python, C, C++
 * **Scripting:** Bash, PowerShell
 * **Database:** MySQL, Oracle SQL
@@ -88,6 +94,20 @@
 ---
 
 ## **👨‍💻 Tech Stack**  
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-%230078D4.svg?style=for-the-badge&logo=microsoftdefender&logoColor=white)
+![Zscaler](https://img.shields.io/badge/Zscaler-%2300AEEF.svg?style=for-the-badge&logo=zscaler&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23009689.svg?style=for-the-badge&logo=nmap&logoColor=white)<br/>
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell Remoting](https://img.shields.io/badge/PowerShell%20Remoting-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Group Policy](https://img.shields.io/badge/Group%20Policy-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-%230078D4.svg?style=for-the-badge&logo=openid&logoColor=white)
+![Kerberos](https://img.shields.io/badge/Kerberos-%230078D4.svg?style=for-the-badge&logo=linux&logoColor=white) <br/>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -97,12 +117,19 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
+
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) <br/>
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Active Directory](https://img.shields.io/badge/Azure%20Active%20Directory-%230078D4.svg?style=for-the-badge&logo=microsoftentra&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-%230078D4.svg?style=for-the-badge&logo=microsoftentra&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -110,15 +137,24 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-%23A42E2B.svg?style=for-the-badge&logo=yara&logoColor=white) <br/>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) <br/>
 
 ---
 
 ## 🌐 Socials:
+<!--
 [![Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://adityabhatt3010.github.io) <br/>
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhatt3010/) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/AdityaBhatt3010) </br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:info.adityabhatt3010@gmail.com) <br/>
@@ -140,11 +176,12 @@
     width="96%" 
   />
 
-  <!-- 📈 Contribution Graph -->
+  <!-- 📈 Contribution Graph 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaBhatt3010&bg_color=0D1117&color=F77070&line=F7A325&point=FFFFFF&area=true&hide_border=false&hide_border=false" 
     width="96%" 
-  />
+  /> 
+  -->
 
   <!-- 🧾 Extra GitHub Stats -->
   <img 
