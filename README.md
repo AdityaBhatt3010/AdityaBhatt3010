@@ -21,30 +21,6 @@
 
 ---
 
-## 📜 Trainings
-
-* **Cisco NetAcad:** CCNA v7
-* **Microsoft Learn:** SC-200, Linux Shell, GitHub
-* **SimpliLearn Training:** CISM, CCSP, CompTIA Network+, Cybersecurity Essentials, Linux Training
-* **EC-Council CodeRed:** Top 100 Interesting Bugs, IoT Security, Cloud Security, Web Forensics
-* **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
-* **AWS Educate:** Getting Started with Security *(AWS IAM)*
-* **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
-
----
-
-## 🛠️ Technical Skills
-
-* **Cybersecurity & VAPT:** Ethical Hacking, App Scanning, Incident Response, Threat Intelligence
-* **Cloud Security:** AWS, Azure, Terraform basics
-* **Programming:** Java, Python, C, C++
-* **Scripting:** Bash, PowerShell
-* **Database:** MySQL, Oracle SQL
-* **Tools & Platforms:** GitHub, Docker, Nessus, Acunetix
-* **Networking & Analysis:** Network Security, Packet Tracing
-
----
-
 ## 👨‍💻 Work Experience
 
 * **Cloud Security Engineer - I | Insight** *(July 2026 – Present)*  
@@ -91,6 +67,30 @@
 * **🌐 TryHackMe Global Top 2%**  
   Ranked among the **top global learners on TryHackMe** for consistently solving **red-team, exploitation, and attack simulation labs**.
 
+---
+
+## 🛠️ Technical Skills
+
+* **Cybersecurity & VAPT:** Ethical Hacking, App Scanning, Incident Response, Threat Intelligence
+* **Cloud Security:** AWS, Azure, Terraform basics
+* **Programming:** Java, Python, C, C++
+* **Scripting:** Bash, PowerShell
+* **Database:** MySQL, Oracle SQL
+* **Tools & Platforms:** GitHub, Docker, Nessus, Acunetix
+* **Networking & Analysis:** Network Security, Packet Tracing
+
+---
+
+## 📜 Trainings
+
+* **Cisco NetAcad:** CCNA v7
+* **Microsoft Learn:** SC-200, Linux Shell, GitHub
+* **SimpliLearn Training:** CISM, CCSP, CompTIA Network+, Cybersecurity Essentials, Linux Training
+* **EC-Council CodeRed:** Top 100 Interesting Bugs, IoT Security, Cloud Security, Web Forensics
+* **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
+* **AWS Educate:** Getting Started with Security *(AWS IAM)*
+* **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
+  
 ---
 
 ## **👨‍💻 Tech Stack**  
